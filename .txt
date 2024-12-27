@@ -1,0 +1,8 @@
+PS E:\backend-frameworks\flask-pr> flask shell
+Instance: E:\backend-frameworks\flask-pr\instance
+>>> from app.models import *
+>>> db.create_all(
+... 
+KeyboardInterrupt
+>>> db.create_all()
+>>> 
